@@ -51,7 +51,7 @@ To deploy the project, you can use:
 This project is licensed under the **MIT License**.  
 
 ## 👨‍💻 Author  
-👤 **Your Name**  
+👤 **Abhranil Dutta**  
 - GitHub: [Abhranil2004](https://github.com/Abhranil2004)  
 - LinkedIn: [Abhranil Dutta ](linkedin.com/in/abhranil-dutta-5540352bb)  
 
